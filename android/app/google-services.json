@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "768039925012",
+    "project_id": "fartagram-60b0d",
+    "storage_bucket": "fartagram-60b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768039925012:android:9dcf5e387b13bb621dfe01",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768039925012-3rubvrai4op4qomi5r119eg30cnn4p64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvSf2recq_LlZEL_6DbJXtDJUExJmj04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768039925012-3rubvrai4op4qomi5r119eg30cnn4p64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768039925012-6sqokvd9irntkub7s14hsmnfv30l727g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
